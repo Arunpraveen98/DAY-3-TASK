@@ -1,0 +1,104 @@
+//QUESTION-2:
+^^^^^^^^^^^^^ 
+//OUTPUT:=
+^^^^^^^^^^
+
+ABOUT_ME: 
+"A keen Computer professional graduated B.E. Computer science and engineering at Kumaraguru College of Technology,Coimbatore,looking to work for a challenging and responsible position."
+
+CAREER_OBJECTIVE: 
+"I am hardworking a competitive and challenging career that will challenge me to push my boundaries and expand my knowledge in the field of computer science while allowing me to add value to the dynamics of the company."
+
+EDUCATION: 
+Array(3)
+0: {2013-2014: '10th-CGPA-7.6'}
+1: {2014-2016: '12th-PERCENTAGE-89'}
+2: {2016-2020: 'B.E COMPUTER SCIENCE AND ENGINEERING-CGPA-6.78'}
+length: 3
+[[Prototype]]: Array(0)
+
+EMAIL: "arunfbfb78@gmail.com"
+
+HOBBY: 
+Array(3)
+0: {1: 'Interested on doing oil paintings and sketches'}
+1: {2: 'Interested on making advertisement posters in Adobe photoshop cs'}
+2: {3: 'Interested on doing Craft works'}
+length: 3
+[[Prototype]]: Array(0)
+
+LANGUAGES_KNOWN: "English and Tamil"
+
+NAME: "ARUN PRAVEEN R"
+
+PHONE_NO: "8344236645"
+
+PROJECTS: 
+Array(2)
+0: {1: 'SMART MIRROR'}
+1: {2: 'TRADE CARTZ'}
+length: 2
+[[Prototype]]: Array(0)
+
+SKILLS: 
+Array(3)
+0: {AREAS_OF_INTEREST: 'WEB DESIGNING'}
+1: {PROGRAMING_LANGUAGE: 'JAVASCRIPT'}
+2: {OPERATING_SYSTEM: 'WINDOWS XP'}
+length: 3
+
+__________________________________________________________________________________________________________
+
+//QUESTION 1:
+^^^^^^^^^^^^^
+//OUTPUT:=
+^^^^^^^^^^
+//for loop:-
+//OUTPUT:-
+
+2013-2014: "10th-CGPA-7.6"
+[[Prototype]]: Object
+2014-2016: "12th-PERCENTAGE-89"
+[[Prototype]]: Object 
+2016-2020: "B.E COMPUTER SCIENCE AND ENGINEERING-CGPA-6.78"
+[[Prototype]]: Object
+______________________________________________________________________________________________________________
+
+//for in
+//METHOD 1:TO PRINT INDEX NUMBER
+//OUTPUT:-
+0
+1
+2
+
+//METHOD 2:TO PRINT INDEX VALUES
+//OUTPUT:-
+
+AREAS_OF_INTEREST: "WEB DESIGNING"
+[[Prototype]]: Object
+PROGRAMING_LANGUAGE: "JAVASCRIPT"
+[[Prototype]]: Object
+OPERATING_SYSTEM: "WINDOWS XP"
+[[Prototype]]: Object
+
+____________________________________________________________________________________________________________________
+//for of
+//OUTPUT:-
+
+1: "Interested on doing oil paintings and sketches"
+[[Prototype]]: Object
+2: "Interested on making advertisement posters in Adobe photoshop cs"
+[[Prototype]]: Object
+3: "Interested on doing Craft works"
+[[Prototype]]: Object
+
+____________________________________________________________________________________________________________________
+//foreach
+//OUTPUT:-
+1: "SMART MIRROR"
+[[Prototype]]: Object
+2: "TRADE CARTZ"
+[[Prototype]]: Object
+
+
+______________________________________________________________________________________________________________________
